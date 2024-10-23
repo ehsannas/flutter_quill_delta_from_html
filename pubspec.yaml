@@ -10,7 +10,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  dart_quill_delta: ^10.6.0
+  dart_quill_delta: ^10.0.0
   html: ^0.15.4
 
 dev_dependencies:
